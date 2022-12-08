@@ -1,5 +1,5 @@
 # simulaCompeticao
- Criei um programa capaz de simular competições entre atletas de três modalidades distintas, sendo elas:
+ Criei um programa para o Trabalho 2 da disciplina de Introdução a Orientado a Objeto da UTFPR de Toledo, capaz de simular competições entre atletas de três modalidades distintas, sendo elas:
 <br>• Ginástica
 <br>• Natação
 <br>• Halterofilismo
