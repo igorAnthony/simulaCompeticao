@@ -1,0 +1,237 @@
+{
+  "nr_participantes": 58,
+  "inscricaoNegada": [
+    {
+      "nomeAtleta": "Niccolo Bredee",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Benni Huey",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Daron Blacker",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Porter Arkle",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Corina Haith",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Clemente Leivers",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Robinet Bibby",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Cinda Quarton",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Lonee Irving",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Riobard Stanmore",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Papagena Korb",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Marvin Hassell",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Quintana Roj",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Meier Bischop",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Jacky McCord",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Dorthy Cundict",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Cornall Perelli",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Khalil Nockolds",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Rosalie Crees",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Sheri MacDiarmond",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Kimberlyn Woolfall",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Kip Cosley",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Hillier Dibsdale",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Eulalie Palle",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Ash Yes",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Brigham McLernon",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Clarence Rawling",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Mirna Evesque",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Troy Southorn",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Tye Janiak",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Nanny Keighley",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Christopher Yeulet",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Pammy Kerrane",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Cesare Schiementz",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Sergeant Davydoch",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Reeta Laidlow",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Rock Grinaway",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Corina Casbon",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Jilleen Limprecht",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Maddie Lumox",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Irving Hatwells",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Mamie Line",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Melodee McGerr",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Tootsie Ghilardi",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Iris Broun",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Bevvy Boate",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Anatola Delooze",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Jeniffer Penas",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Kaia Ivanichev",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Phaidra Blest",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Les Gyngell",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Sherri Micklewicz",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Hyacinth Mooreed",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Yorker Wyard",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Annamarie West",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Penn Helder",
+      "motivo": "Idade do atleta superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Corinne McQuaker",
+      "motivo": "Atleta com excesso de lesões"
+    },
+    {
+      "nomeAtleta": "Megan Stych",
+      "motivo": "Atleta com excesso de lesões"
+    }
+  ]
+}
